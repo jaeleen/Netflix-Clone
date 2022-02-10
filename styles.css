@@ -28,7 +28,7 @@ body{
 }
 /* Styling Header */
 .banner{
-    background-image: url(/images/thewitcher.jpeg);
+    background-image: url(images/thewitcher.jpeg);
     background-position: top center right;
     background-size: cover;
     object-fit: contain;
